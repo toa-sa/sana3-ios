@@ -15,8 +15,8 @@ enum Credits {
     static let snapHandle = "Ngim"
     static let xURL = URL(string: "https://x.com/iturk88")!
     static let snapURL = URL(string: "https://www.snapchat.com/add/Ngim")!
-    static let githubHandle = "Alshabeeb88"
-    static let githubURL = URL(string: "https://github.com/Alshabeeb88")!
+    static let githubHandle = "toa-sa"
+    static let githubURL = URL(string: "https://github.com/toa-sa")!
     static let copyright = "© 2026 Turki Bin Obaid — جميع الحقوق محفوظة"
 }
 
