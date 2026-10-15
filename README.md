@@ -65,6 +65,6 @@ project.yml      إعدادات المشروع (XcodeGen)
 
 ## الحقوق
 
-الفكرة والتطوير: **Turki Bin Obaid** · X [@iturk88](https://x.com/iturk88) · Snapchat [Ngim](https://www.snapchat.com/add/Ngim)
+الفكرة والتطوير: **Turki Bin Obaid** · X [@TOADigitalsa](https://x.com/TOADigitalsa) · Snapchat [Ngim](https://www.snapchat.com/add/Ngim)
 
 © 2026 Turki Bin Obaid. جميع الحقوق محفوظة.

@@ -11,9 +11,9 @@ import UIKit
 
 enum Credits {
     static let owner = "Turki Bin Obaid"
-    static let xHandle = "iturk88"
+    static let xHandle = "TOADigitalsa"
     static let snapHandle = "Ngim"
-    static let xURL = URL(string: "https://x.com/iturk88")!
+    static let xURL = URL(string: "https://x.com/TOADigitalsa")!
     static let snapURL = URL(string: "https://www.snapchat.com/add/Ngim")!
     static let githubHandle = "toa-sa"
     static let githubURL = URL(string: "https://github.com/toa-sa")!
